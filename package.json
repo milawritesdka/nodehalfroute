@@ -1,0 +1,8 @@
+cache-dir: ~/.cache
+registry: default
+node_modules/
+dist/
+*.log
+node_modules/
+dist/
+*.log
